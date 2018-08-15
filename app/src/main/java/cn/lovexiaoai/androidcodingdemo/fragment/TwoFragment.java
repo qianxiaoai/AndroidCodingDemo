@@ -1,4 +1,4 @@
-package cn.lovexiaoai.androidcodingdemo.java;
+package cn.lovexiaoai.androidcodingdemo.fragment;
 
 
 import cn.lovexiaoai.androidcodingdemo.R;
@@ -7,9 +7,9 @@ import cn.lovexiaoai.androidcodingdemo.base.BaseFragment;
 /**
  * Created by qianxiaoai on 2018/8/14
  */
-public class FourFragment extends BaseFragment {
+public class TwoFragment extends BaseFragment {
     @Override
     public int getContentView() {
-        return R.layout.fragment_pager_four;
+        return R.layout.fragment_pager_two;
     }
 }

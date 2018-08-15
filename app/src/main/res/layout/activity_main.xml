@@ -14,7 +14,7 @@
         android:textSize="13sp"/>
 
 
-    <cn.lovexiaoai.androidcodingdemo.java.widget.PagerSlidingTabStrip
+    <cn.lovexiaoai.androidcodingdemo.widget.PagerSlidingTabStrip
         android:id="@+id/indicator"
         android:layout_width="match_parent"
         android:layout_height="40dp"

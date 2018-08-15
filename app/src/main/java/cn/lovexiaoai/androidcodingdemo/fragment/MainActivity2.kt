@@ -1,4 +1,4 @@
-package cn.lovexiaoai.androidcodingdemo.java
+package cn.lovexiaoai.androidcodingdemo.fragment
 
 import android.os.Bundle
 import android.support.v4.app.Fragment
@@ -11,7 +11,7 @@ import java.util.ArrayList
 import java.util.Arrays
 
 import cn.lovexiaoai.androidcodingdemo.R
-import cn.lovexiaoai.androidcodingdemo.java.widget.PagerSlidingTabStrip
+import cn.lovexiaoai.androidcodingdemo.widget.PagerSlidingTabStrip
 
 /**
  * Created by qianxiaoai on 2018/8/14

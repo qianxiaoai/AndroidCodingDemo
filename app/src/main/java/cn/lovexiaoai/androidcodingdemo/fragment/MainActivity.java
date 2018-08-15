@@ -1,21 +1,19 @@
-package cn.lovexiaoai.androidcodingdemo.java;
+package cn.lovexiaoai.androidcodingdemo.fragment;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
-import android.support.v4.view.PagerTabStrip;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
-import android.view.View;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
 import cn.lovexiaoai.androidcodingdemo.R;
-import cn.lovexiaoai.androidcodingdemo.java.widget.PagerSlidingTabStrip;
+import cn.lovexiaoai.androidcodingdemo.widget.PagerSlidingTabStrip;
 
 /**
  * Created by qianxiaoai on 2018/8/14

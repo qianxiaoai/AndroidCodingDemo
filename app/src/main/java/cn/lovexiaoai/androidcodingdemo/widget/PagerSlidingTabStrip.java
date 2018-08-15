@@ -1,5 +1,5 @@
 
-package cn.lovexiaoai.androidcodingdemo.java.widget;
+package cn.lovexiaoai.androidcodingdemo.widget;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -9,7 +9,6 @@ import android.graphics.Paint;
 import android.graphics.Paint.Style;
 import android.graphics.Typeface;
 import android.graphics.drawable.Drawable;
-import android.os.Build;
 import android.os.Parcel;
 import android.os.Parcelable;
 import android.support.v4.view.ViewPager;
