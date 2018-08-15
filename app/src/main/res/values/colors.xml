@@ -1,6 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+    <color name="white">#ffffff</color>
+
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="xiaoai_color_43c2c1">#43c2c1</color>
+    <color name="xiaoai_color_455683">#455683</color>
+    <color name="xiaoai_color_373737">#373737</color>
+    <color name="xiaoai_color_3fbfbd">#3fbfbd</color>
+    <color name="xiaoai_color_ff848a">#ff848a</color>
+    <color name="xiaoai_color_aaaaaa">#AAAAAA</color>
+    <color name="xiaoai_color_999999">#999999</color>
+    <color name="xiaoai_color_777777">#777777</color>
+    <color name="xiaoai_color_444444">#444444</color>
+    <color name="xiaoai_color_5DCBDB">#5DCBDB</color>
+    <color name="xiaoai_color_222222">#222222</color>
+    <color name="xiaoai_color_666666">#666666</color>
+    <color name="xiaoai_color_1e1e1e">#1e1e1e</color>
+    <color name="xiaoai_color_878787">#878787</color>
+    <color name="xiaoai_color_fcf8f5">#fcf8f5</color>
+    <color name="xiaoai_color_7fdcde">#7FDCDE</color>
+    <color name="xiaoai_color_eeeeee">#EEEEEE</color>
+    <color name="xiaoai_color_c3c3c3">#c3c3c3</color>
+    <color name="xiaoai_color_fafafa">#fafafa</color>
+    <color name="xiaoai_color_cdcdcd">#cdcdcd</color>
+    <color name="xiaoai_color_5e7785">#5e7785</color>
+    <color name="xiaoai_color_4daf35">#4daf35</color>
+    <color name="xiaoai_color_41952d">#41952d</color>
+    <color name="xiaoai_color_e3f3e0">#e3f3e0</color>
+    <color name="xiaoai_color_b0f2a1">#b0f2a1</color>
+    <color name="xiaoai_color_dff9d9">#dff9d9</color>
+    <color name="xiaoai_color_95d988">#95d988</color>
+    <color name="xiaoai_color_f9dbde">#f9dbde</color>
+    <color name="xiaoai_color_f9b017">#f9b017</color>
+    <color name="xiaoai_color_cde0ee">#cde0ee</color>
+    <color name="xiaoai_color_dd0000">#dd0000</color>
+    <color name="xiaoai_color_bb0000">#bb0000</color>
+    <color name="xiaoai_color_fad9db">#fad9db</color>
+    <color name="xiaoai_color_f6aeb4">#f6aeb4</color>
+    <color name="xiaoai_color_f88069">#f88069</color>
+    <color name="xiaoai_color_2a77c7">#2a77c7</color>
+    <color name="xiaoai_color_2366a9">#2366a9</color>
+    <color name="xiaoai_color_dbebf7">#dbebf7</color>
+    <color name="xiaoai_color_87bbe3">#87bbe3</color>
+    <color name="xiaoai_color_6ca7d5">#6ca7d5</color>
+    <color name="xiaoai_color_cccccc">#cccccc</color>
+    <color name="xiaoai_color_dddddd">#DDDDDD</color>
+    <color name="xiaoai_color_4ccccf">#4ccccf</color>
+    <color name="xiaoai_color_252627">#252627</color>
+    <color name="xiaoai_color_7b7a86">#7b7a86</color>
+    <color name="xiaoai_color_d4ddee">#d4ddee</color>
+    <color name="xiaoai_color_daf8f8">#daf8f8</color>
+    <color name="xiaoai_color_f6f7f8">#f6f7f8</color>
+    <color name="xiaoai_color_f6f6f6">#f6f6f6</color>
+    <color name="xiaoai_color_f7f7f7">#f7f7f7</color>
+    <color name="xiaoai_color_83dcde">#83dcde</color>
+    <color name="xiaoai_color_f5f8fa">#f5f8fa</color>
+    <color name="xiaoai_color_474d50">#474D50</color>
+    <color name="xiaoai_color_727d7f">#727D7F</color>
+    <color name="xiaoai_color_bdbdbd">#BDBDBD</color>
+    <color name="xiaoai_color_ccffffff">#ccffffff</color>
+    <color name="xiaoai_color_66cccc">#66cccc</color>
+    <color name="xiaoai_color_ffd24d">#ffd24d</color>
+    <color name="xiaoai_color_000000">#000000</color>
+    <color name="xiaoai_color_ffffff">#ffffff</color>
+    <color name="xiaoai_color_b6b7bd">#b6b7bd</color>
+    <color name="xiaoai_color_272727">#272727</color>
+    <color name="xiaoai_color_abe34b">#ABE34B</color>
+    <color name="xiaoai_color_dcdcdc">#dcdcdc</color>
+    <color name="xiaoai_color_2ec6ca">#2EC6CA</color>
+    <color name="xiaoai_color_44ccd0">#44CCD0</color>
+    <color name="xiaoai_color_3c3c3c">#3c3c3c</color>
+    <color name="xiaoai_color_282828">#282828</color>
+    <color name="xiaoai_color_b9b9b9">#B9B9B9</color>
+    <color name="xiaoai_color_home_dim">#63000000</color>
+    
 </resources>
